@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I am Seema Acharya
 
-<!--
-**Seemaksacharya/Seemaksacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Frontend Developer.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 MCA Graduate
+- 💻 Frontend Developer Intern
+- 🌱 Learning React & Full Stack Development
+- 🎯 Goal: Become a top software engineer
+![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-2196f3?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+- LinkedIn
+- Portfolio
+- Email
