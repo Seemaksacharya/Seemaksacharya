@@ -1,4 +1,4 @@
-# Hi 👋 I am Seema Acharya
+# Hi I am Seema Acharya.
 
 A passionate Frontend Developer.
 
