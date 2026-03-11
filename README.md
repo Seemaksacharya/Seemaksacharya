@@ -14,6 +14,5 @@ A passionate Frontend Developer.
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 ## 🌐 Connect With Me
-- LinkedIn
-- Portfolio
+- ![LinkedIn](https://www.linkedin.com/in/seema-k-s-390456256/)
 - Email 
