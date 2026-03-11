@@ -3,10 +3,9 @@
 A passionate Frontend Developer.
 
 ## 🚀 About Me
-- 🎓 MCA Graduate
-- 💻 Frontend Developer Intern
-- 🌱 Learning React & Full Stack Development
-- 🎯 Goal: Become a top software engineer
+-  MCA Graduate
+-  Frontend Developer Intern
+-  Currently Learning javascript,React & Full Stack Development
 
 ## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5)
@@ -17,4 +16,4 @@ A passionate Frontend Developer.
 ## 🌐 Connect With Me
 - LinkedIn
 - Portfolio
-- Email
+- Email 
